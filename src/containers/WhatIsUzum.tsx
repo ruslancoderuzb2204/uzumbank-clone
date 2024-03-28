@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const Main = () => {
  return (
-  <div className='max-w-[1300px]  mx-auto w-full px-20'>
+  <div className='max-w-[1300px] mx-auto w-[100%] px-20'>
    <h2 className='text-4xl text-blue-600 font-semibold text-center mb-14'>What is Uzum?</h2>
    <div className='flex items-center justify-between gap-20'>
     <div className='w-1/2'>
